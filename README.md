@@ -1,2 +1,5 @@
-# PF-with-Python
-Hey there! 👋 This repo is perfect for anyone starting their coding journey. Learn Python step by step — from basics like variables and loops to functions and logic building. Everything’s explained simply with examples and small exercises to help you build a strong programming foundation. 💻
+# 🐍 Programming Fundamentals with Python
+
+Hey there! 👋 Welcome to Programming Fundamentals with Python — a beginner-friendly guide to help you start your programming journey the right way.
+
+If you’re new to coding and want to build a solid foundation in programming, this repo is for you.
