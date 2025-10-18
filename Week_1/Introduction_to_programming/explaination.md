@@ -51,3 +51,10 @@ Before writing your first program:
    Open your terminal or command prompt and type:
    ```bash
    python --version
+   ```
+
+   You should see something like:
+  ```bash
+   Python 3.12.0
+```
+
