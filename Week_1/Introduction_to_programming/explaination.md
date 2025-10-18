@@ -45,7 +45,8 @@ Here’s why Python is great for beginners:
 Before writing your first program:
 
 # Install Python
-👉 Download from python.org/downloads
+👉 Download from [python.org/downloads](https://www.python.org/downloads)
+
 
 # Check Installation
 Open your terminal or command prompt and type:
@@ -92,6 +93,7 @@ Try writing and running these simple programs:
 . Print your favorite quote
 
 . Print “Welcome to Python Programming!”
+
 
 
 
