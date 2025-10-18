@@ -17,15 +17,15 @@ If you tell a computer to “add two numbers,” you’re programming it to foll
 
 Learning to program helps you:
 
-🧠** Think logically** — break big problems into smaller steps
+🧠Think logically — break big problems into smaller steps
 
-⚙️** Automate tasks** — make computers do repetitive work for you
+⚙️Automate tasks — make computers do repetitive work for you
 
-💼 **Build projects **— from games and web apps to AI tools
+💼Build projects — from games and web apps to AI tools
 
-🚀 **Boost your career opportunities** — programming skills are in high demand
+🚀Boost your career opportunities — programming skills are in high demand
 
-🐍# Why Python?
+# 🐍 Why Python?
 
 Python is one of the most beginner-friendly programming languages in the world.
 It’s used everywhere — from web development and automation to artificial intelligence and data science.
@@ -40,7 +40,7 @@ Here’s why Python is great for beginners:
 
 ✅ Great for both beginners and professionals
 
-⚙️# Setting Up Python
+#⚙️ Setting Up Python
 
 Before writing your first program:
 
@@ -62,14 +62,14 @@ Python 3.12.0
 # Install a Code Editor
 We’ll use VS Code, a popular and beginner-friendly editor.
 
-✍️# Writing Your First Python Program
+#✍️ Writing Your First Python Program
 
 Let’s write your first line of Python code!
 ```bash
 print("Hello, Python!")
 ```
 
-🧠# What’s Happening Here:
+#🧠 What’s Happening Here:
 
 print() is a built-in Python function.
 
@@ -81,15 +81,16 @@ Hello, Python!
 ```
 
 
-🎉# Congratulations — you’ve just written your first Python program!
+🎉 Congratulations — you’ve just written your first Python program!
 
-🔍 Practice Task
+# 🔍 Practice Task
 
 Try writing and running these simple programs:
 
-Print your name
+> Print your name
 
-Print your favorite quote
+> Print your favorite quote
 
-Print “Welcome to Python Programming!”
+> Print “Welcome to Python Programming!”
+
 
