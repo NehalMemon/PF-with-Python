@@ -56,5 +56,6 @@ Before writing your first program:
    You should see something like:
   ```bash
    Python 3.12.0
-```
+  ```
+
 
