@@ -1,9 +1,9 @@
-🧠# Class 1: Introduction to Programming & Python
+# 🧠 Class 1: Introduction to Programming & Python
 
 Welcome to your very first Python class! 🎉
 In this session, we’ll understand what programming actually means, why it’s useful, and how Python makes it simple and fun to learn.
 
-💡 #What Is Programming?
+# 💡 What Is Programming?
 
 Programming is the process of instructing a computer to perform tasks.
 Just like we use English or Urdu to communicate with people, we use programming languages to communicate with computers.
@@ -13,17 +13,17 @@ A program is simply a set of instructions written in a specific language that th
 For example:
 If you tell a computer to “add two numbers,” you’re programming it to follow that instruction.
 
-🧩# Why Learn Programming?
+# 🧩 Why Learn Programming?
 
 Learning to program helps you:
 
-🧠 Think logically — break big problems into smaller steps
+🧠** Think logically** — break big problems into smaller steps
 
-⚙️ Automate tasks — make computers do repetitive work for you
+⚙️** Automate tasks** — make computers do repetitive work for you
 
-💼 Build projects — from games and web apps to AI tools
+💼 **Build projects **— from games and web apps to AI tools
 
-🚀 Boost your career opportunities — programming skills are in high demand
+🚀 **Boost your career opportunities** — programming skills are in high demand
 
 🐍# Why Python?
 
@@ -92,3 +92,4 @@ Print your name
 Print your favorite quote
 
 Print “Welcome to Python Programming!”
+
