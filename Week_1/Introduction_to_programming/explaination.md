@@ -87,10 +87,11 @@ Hello, Python!
 
 Try writing and running these simple programs:
 
-> Print your name
+. Print your name
 
-> Print your favorite quote
+. Print your favorite quote
 
-> Print “Welcome to Python Programming!”
+. Print “Welcome to Python Programming!”
+
 
 
