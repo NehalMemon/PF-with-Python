@@ -63,7 +63,7 @@ Python 3.12.0
 # Install a Code Editor
 We’ll use VS Code, a popular and beginner-friendly editor.
 
-#✍️ Writing Your First Python Program
+# ✍️ Writing Your First Python Program
 
 Let’s write your first line of Python code!
 ```bash
@@ -93,6 +93,7 @@ Try writing and running these simple programs:
 - Print your favorite quote
 
 - Print “Welcome to Python Programming!”
+
 
 
 
