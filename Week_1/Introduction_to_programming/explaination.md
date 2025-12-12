@@ -40,7 +40,7 @@ Here’s why Python is great for beginners:
 
 ✅ Great for both beginners and professionals
 
-#⚙️ Setting Up Python
+# ⚙️ Setting Up Python
 
 Before writing your first program:
 
@@ -93,6 +93,7 @@ Try writing and running these simple programs:
 - Print your favorite quote
 
 - Print “Welcome to Python Programming!”
+
 
 
 
