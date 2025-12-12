@@ -70,7 +70,7 @@ Let’s write your first line of Python code!
 print("Hello, Python!")
 ```
 
-#🧠 What’s Happening Here:
+# 🧠 What’s Happening Here:
 
 print() is a built-in Python function.
 
@@ -93,6 +93,7 @@ Try writing and running these simple programs:
 - Print your favorite quote
 
 - Print “Welcome to Python Programming!”
+
 
 
 
